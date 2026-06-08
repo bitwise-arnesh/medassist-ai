@@ -239,17 +239,6 @@ How is asthma treated?
 - Streamlit Application Development
 - End-to-End GenAI Pipeline Design
 
----
-
-## 🔮 Future Improvements
-
-- Source citations
-- Chat history memory
-- Multi-document support
-- PDF upload through UI
-- Streaming responses
-- Cloud deployment
-- Dockerization
 
 ---
 
